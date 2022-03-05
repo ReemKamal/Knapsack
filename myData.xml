@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <cd>
+    <Profit>5</Profit>
+    <Weight>1</Weight>
+  </cd>
+  <cd>
+    <Profit>10</Profit>
+    <Weight>3</Weight>
+  </cd>
+  <cd>
+    <Profit>15</Profit>
+    <Weight>5</Weight>
+  </cd>
+  <cd>
+    <Profit>7</Profit>
+    <Weight>4</Weight>
+  </cd>
+  <cd>
+    <Profit>8</Profit>
+    <Weight>1</Weight>
+  </cd>
+  <cd>
+    <Profit>9</Profit>
+    <Weight>3</Weight>
+  </cd>
+  <cd>
+    <Profit>4</Profit>
+    <Weight>2</Weight>
+  </cd>
+</data>
